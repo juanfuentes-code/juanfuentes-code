@@ -1,16 +1,22 @@
-### Hi there 👋
+# Juan Fuentes
+> I'm a Software engineering student, currently working on IT industry. 
+> I'm  from México city  
 
-<!--
-**john024x/john024x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some things that I've been doing:
 
-Here are some ideas to get you started:
+- Custom web systems and web apps, mostly based on PHP.
+- Database design and architecture
+- Customer Support
+- Design, development and deploy of React components
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also I'm...
+
+- 💚 probably in love with web components 
+- 🔒Interested in cybersecurity
+- ☕️A coffe addict
+
+Contact me!
+- [Twitter 🐣](https://twitter.com/john024x)
+- juan_fuentes@avocadosnetwork.com
+
+**Nothing worth having comes easily**
