@@ -18,7 +18,7 @@ Some things that I've been doing:
 
 Also I'm...
 
-- Python, ❤️  🐍.
+- 💚🐍Python
 - 🔒Enthusiast in cybersecurity
 - ☕️A coffe addict
 
